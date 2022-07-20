@@ -5,6 +5,7 @@
 
 #include		"RCC_interface.h"
 #include		"RCC_private.h"
+#include		"RCC_config.h"
 
 
 void RCC_voidSyslClkInit(u8 clock_type , u8 pll_mode)
