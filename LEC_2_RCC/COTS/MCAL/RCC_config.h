@@ -3,6 +3,7 @@
 #ifndef		RCC_CONFIG_H
 #define		RCC_CONFIG_H
 
+#define x 5
 
 //BUSES
 #define		RCC_AHB1		0
